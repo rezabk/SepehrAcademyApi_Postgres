@@ -10,6 +10,8 @@ namespace DAL.DTO.Upload
 {
     public class UploadImageDto
     {
-        public IFormFile Image { get; set; }
+        public string Name { get; set; } = null!;
+        public MemoryStream InputStream { get; set; } = null!;
+        public string BucketName { get; set; } = null!;
     }
 }

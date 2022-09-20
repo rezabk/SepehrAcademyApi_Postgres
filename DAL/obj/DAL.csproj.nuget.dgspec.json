@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Reza\\Desktop\\New folder\\SepehrAcademy_Api\\DAL\\DAL.csproj": {}
+    "C:\\Users\\Reza\\Desktop\\SepehrAcademyApi(Postgres)\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Reza\\Desktop\\New folder\\SepehrAcademy_Api\\DAL\\DAL.csproj": {
+    "C:\\Users\\Reza\\Desktop\\SepehrAcademyApi(Postgres)\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Reza\\Desktop\\New folder\\SepehrAcademy_Api\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Reza\\Desktop\\SepehrAcademyApi(Postgres)\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Reza\\Desktop\\New folder\\SepehrAcademy_Api\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\Reza\\Desktop\\SepehrAcademyApi(Postgres)\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Reza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Reza\\Desktop\\New folder\\SepehrAcademy_Api\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\Reza\\Desktop\\SepehrAcademyApi(Postgres)\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

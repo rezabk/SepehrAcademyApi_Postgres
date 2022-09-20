@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cElvcvd33uJ8ejIsS/gB6XeNyb1KjAxXvyJxjjhCOLQ8EOGyPQmV4VBP+jCV3l20ocadmkJicrhXZTGh3kFaDA==",
+  "dgSpecHash": "/yPHs0Cyhg/otmp75nIW3Fg5BwatYn9Smxb2YowVQo8Bo3Uc9wkZ/UtVwQctQXyJjauZVJdCMD7Xsrjv0WH+WA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Reza\\Desktop\\New folder\\SepehrAcademy_Api\\BusinessLogic\\BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\Reza\\Desktop\\SepehrAcademyApi(Postgres)\\BusinessLogic\\BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Reza\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Reza\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
